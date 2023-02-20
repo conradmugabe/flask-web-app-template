@@ -1,2 +1,3 @@
-# flask-web-app-template
+# Flask Web App Template
+
 A web app template with Flask
